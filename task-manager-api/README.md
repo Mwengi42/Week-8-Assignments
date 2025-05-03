@@ -6,7 +6,7 @@ A simple Task Manager API that allows users to create, read, update, and delete 
 ## How to Run/Setup the Project
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/task-manager-api.git
+   git clone https://github.com/Mwengi42/Week-8-Assignments.git
    cd task-manager-api
 Install dependencies:
 
